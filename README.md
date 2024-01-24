@@ -19,3 +19,6 @@ Read the docs at https://docs.movie-web.app/proxy/introduction
  - AWS lambda
  - nodejs
  - netlify edge functions
+
+
+yeahh i got no idea what i'm doing but it's just working
